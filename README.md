@@ -3,7 +3,8 @@
 
 ## Introduction
 
-Welcome to the Biodiversity Exploration App! This Flutter-based app gamifies the exploration of nature by encouraging users to photograph plants and animals. The app identifies the species and provides additional information about each one. Users earn bio points for each identification, and for every 10 bio points, we plant a tree to promote biodiversity and conservation. 🌳
+Harvest Hub is a mobile application designed to assist farmers in accessing farming equipment, temporary workers, seeds, pesticides, and medical assistance. The app aims to improve the efficiency and productivity of farmers by providing them with essential resources at affordable rates.
+
 
 ## 📲 Download APK
 
@@ -14,12 +15,12 @@ You can download the latest APK from our GitHub repository:
 
 ## Features
 
-- 🐾 **Species Identification**: Snap photos of plants and animals, and our AI will identify the species and provide detailed information.
-- 🌱 **Earn Bio Points**: Collect bio points for each identified species. For every 10 bio points, a tree is planted.
-- 📚 **Educational Content**: Learn about different species and their roles in the ecosystem.
-- 🎮 **Gamification**: Engage with leaderboards, challenges, and seasonal events to keep the experience exciting.
-- 🌐 **Community Building**: Share your findings, compete with others, and collaborate on conservation projects.
-
+- **🚜Equipment Rental**: Farmers can rent expensive farming equipment such as tractors, plows, harvesters, etc., on a temporary basis.
+- **👩‍🌾Temporary Workers**: Connects farmers with temporary workers for various farming tasks such as planting, harvesting, and irrigation.
+- **🌱Seed Marketplace**: Offers a marketplace for buying and selling seeds of different varieties suitable for various crops.
+- **🦟Pesticide Store**: Provides access to a wide range of pesticides and fertilizers for crop protection and nutrition.
+- **🏥Medical Assistance**: Farmers can consult with agricultural experts and veterinarians for guidance on crop management and livestock health.
+- **☁️Weather Forecast**: Integrates weather forecast services to help farmers plan their agricultural activities effectively.
 
 
 ## 📸 Screenshots
