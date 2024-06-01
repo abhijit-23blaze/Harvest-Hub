@@ -1,0 +1,66 @@
+{
+  "helloWorld": "Welcome to Harvest Hub",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcomeMessage": "Revolutionize your agricultural journey effortlessly. Navigate through a world of premium farming products from the comfort of your home. Your farm, your choices—seamless, convenient, and quality at your fingertips.",
+  "@welcomeMessage":{
+    "description": "Welcome message"
+  },
+  "freeConsultation": "Free Consultation",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "tractor": "Free Consultation",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "freeConsultation1": "Get Consultation from top scientists about your crops and field",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "freeConsultation2": "Call Now",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "featuredProducts": "🔥Trending Products",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "seeAll": "See All",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "weather": "Weather",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "degree": "Today is expected to be sunny",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "degree2": "Recommendation : It is a great day to Harvest crops as the sun will prevent any bacterias from forming",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "hm1": "Home",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "hm2": "Services",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "hm3": "Cart",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "hm4": "Profile",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  },
+  "service": "Services",
+  "@freeConsultation":{
+    "description": "Welcome message"
+  }
+}
