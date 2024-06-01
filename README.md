@@ -28,16 +28,25 @@ You can download the latest APK from our GitHub repository:
 Here are some screenshots of our app:
 
 ### Welcome Screen
-<img src="https://github.com/abhijit-23blaze/Harvest-Hub/assets/Screenshot_20240601-182806.png" alt="home_screen" width="200">
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182745.png" alt="home_screen" width="200">
 
-### Species Identification
-<img src="https://github.com/abhijit-23blaze/Bio-Bounty/assets/169768803/dd053448-049c-42c0-a3ef-181765ab5e04" alt="species" width="200">
+### Home Screen
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182818.png" alt="home_screen" width="200">
 
-### Bio Points
-<img src="https://github.com/abhijit-23blaze/Bio-Bounty/assets/169768803/3e03539f-a8d3-4b92-b03e-00ed4f0a797c" alt="bio_points" width="200">
+### Service Page
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182826.png" alt="home_screen" width="200">
 
-### Educational Content
-<img src="https://github.com/abhijit-23blaze/Bio-Bounty/assets/169768803/6506a657-e423-46f1-a9d6-2cd8b066f775" alt="ed_content" width="200">
+### AI Chat
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182903.png" alt="home_screen" width="200">
+
+### Cart 
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182911.png" alt="home_screen" width="200">
+
+### About Us
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182928.png" alt="home_screen" width="200">
+
+### Multiple Languages
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/blob/main/assets/Screenshot_20240601-182806.png" alt="home_screen" width="200">
 
 
 
