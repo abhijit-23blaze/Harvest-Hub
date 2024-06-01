@@ -28,7 +28,7 @@ You can download the latest APK from our GitHub repository:
 Here are some screenshots of our app:
 
 ### Welcome Screen
-<img src="https://github.com/abhijit-23blaze/Harvest-Hub/assets/Screenshot_20240601-182806" alt="home_screen" width="200">
+<img src="https://github.com/abhijit-23blaze/Harvest-Hub/assets/Screenshot_20240601-182806.png" alt="home_screen" width="200">
 
 ### Species Identification
 <img src="https://github.com/abhijit-23blaze/Bio-Bounty/assets/169768803/dd053448-049c-42c0-a3ef-181765ab5e04" alt="species" width="200">
