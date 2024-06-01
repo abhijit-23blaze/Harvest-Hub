@@ -15,7 +15,7 @@
   "@freeConsultation":{
     "description": "Welcome message"
   },
-  "freeConsultation1": "Get Consultation from top scientists about your crops and field",
+  "freeConsultation1": "Get Consultation from top scientists",
   "@freeConsultation":{
     "description": "Welcome message"
   },
@@ -39,7 +39,7 @@
   "@freeConsultation":{
     "description": "Welcome message"
   },
-  "degree2": "Recommendation : It is a great day to Harvest crops as the sun will prevent any bacterias from forming",
+  "degree2": "",
   "@freeConsultation":{
     "description": "Welcome message"
   },

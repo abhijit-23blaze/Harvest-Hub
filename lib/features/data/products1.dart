@@ -8,7 +8,7 @@ List<Product> products = [
     description:
         "Exence the power of modern farming with our robust tractor. Whether you're tending to vast fields or small plots, this versatile machine ensures efficiency and precision. Its ergonomic design and advanced features make it a must-have for any farmer.",
     image: 'assets/tractor.jpg',
-    price: 4000.00,
+    price: 40.00,
     unit: 'day(s)',
     rating: 4.35, count: 1,
   ),
@@ -40,7 +40,7 @@ List<Product> products = [
   description:
   "Exence the power of modern farming with our robust tractor. Whether you're tending to vast fields or small plots, this versatile machine ensures efficiency and precision. Its ergonomic design and advanced features make it a must-have for any farmer.",
   image: 'assets/tractor.jpg',
-  price: 4000.00,
+  price: 400.00,
   unit: 'day(s)',
   rating: 4.35, count: 1,
  ),
@@ -51,7 +51,7 @@ List<Product> products = [
   description:
   "Conquer your landscaping and gardening tasks with our durable and versatile shovel. Built to withstand demanding work, its ergonomic handle and robust blade make digging, lifting, and moving materials a breeze. Elevate your outdoor projects with this essential tool.",
   image: 'assets/shovel.jpg',
-  price: 114.77,
+  price: 11,
   unit: 'piece',
   rating: 5.0,
  ),

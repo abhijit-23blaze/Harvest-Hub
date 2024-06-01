@@ -29,6 +29,7 @@ dependencies:
   dash_chat_2: ^0.0.18
   chat_gpt_sdk: ^2.2.5
   url_launcher: ^6.2.5
+  font_awesome_flutter: ^10.1.0
 
 
 dev_dependencies:

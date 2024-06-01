@@ -20,7 +20,7 @@ class _ChatPageState extends State<ChatPage> {
   );
 
   final ChatUser _currentUser =
-  ChatUser(id: '1', firstName: 'Hussain', lastName: 'Mustafa');
+  ChatUser(id: '1', firstName: 'Abhijit', lastName: 'Patil');
 
   final ChatUser _gptChatUser = ChatUser(id: '2', firstName: 'Chat', lastName: 'GPT');
 
