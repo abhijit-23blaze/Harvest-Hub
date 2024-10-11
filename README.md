@@ -54,6 +54,9 @@ Here are some screenshots of our app:
 
 ## 🚀 Installation
 
+
+
+
 To install and run the app locally, follow these steps:
 
 1. **Clone the repository**:
